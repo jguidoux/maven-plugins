@@ -69,7 +69,7 @@
                         <name>My snapshots</name>
                         <url>http://localhost:8181/nexus/content/repositories/snapshots/</url>
                 </snapshotRepository>
-        </distributionManagement
+        </distributionManagement>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
